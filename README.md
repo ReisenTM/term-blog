@@ -1,20 +1,46 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# reisen-sh v1.0.0
+> Initializing system... Accessing digital archives... [OK]
 
-# Run and deploy your AI Studio app
+## 🌙 About
+A high-performance, terminal-inspired personal blog. Built by a "noob" who loves building fun things. This project is a digital archive of tech explorations, life fragments, and creative experiments in cyberspace.
 
-This contains everything you need to run your app locally.
+![主页](images/sceneshot-1.png)
 
-View your app in AI Studio: https://ai.studio/apps/fc4e36df-3dcc-402a-9168-7420b5fd4164
+## 🚀 Features
+- **Terminal UI**: Authentic CLI-inspired interface with a cyberpunk aesthetic.
+- **Responsive Design**: Optimized for both desktop and mobile screens.
+- **Motion Effects**: Smooth animations powered by Framer Motion.
+- **Lucide Icons**: Clean and modern iconography.
+- **Tailwind CSS**: Utility-first styling for maximum performance.
+- **Modular Architecture**: Easy to customize and extend.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
+![详情页](images/sceneshot-2.png)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+- **Framework**: React 18+ (Vite)
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide React
+- **Deployment**: Cloud Run
+
+## 📦 Getting Started
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+4. Build for production:
+   ```bash
+   npm run build
+   ```
+
+## 👤 Author
+**铃仙 (Reisen)**
+
+---
+© 2026 REISEN_0x88FF. All rights reserved.
