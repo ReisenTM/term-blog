@@ -2,7 +2,7 @@
 > Initializing system... Accessing digital archives... [OK]
 
 ## 🌙 About
-A high-performance, terminal-inspired personal blog. Built by a "noob" who loves building fun things. This project is a digital archive of tech explorations, life fragments, and creative experiments in cyberspace.
+A high-performance, terminal-inspired personal blog.  This project is a digital archive of tech explorations, life fragments, and creative experiments in cyberspace.
 
 ![主页](images/sceneshot-1.png)
 
